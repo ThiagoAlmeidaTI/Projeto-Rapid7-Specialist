@@ -54,6 +54,19 @@ Projeto desenvolvido como forma de acelerar meu aprendizado na plataforma Rapid7
 
 ---
 
+Confira os [vídeos da Rapid7](https://www.youtube.com/watch?v=Eg1hb-I60ZQ
+https://www.youtube.com/watch?v=IKLVYgEqI1c
+https://www.youtube.com/watch?v=e15qkgK8Gtk&t=1s
+https://www.youtube.com/watch?v=aL2NV3S8VY8 
+https://www.youtube.com/watch?v=r3t3QtYa-NI
+https://www.youtube.com/watch?v=EL9SyJcsM3s&t=31s
+https://www.youtube.com/watch?v=EkB3NRZVFdg&list=PL9PxWMu1s-_xj8Y33GCmSKpRENX7tXcyo&index=5
+https://www.youtube.com/watch?v=8ka7NCnkN74&list=PL9PxWMu1s-_xj8Y33GCmSKpRENX7tXcyo&index=4
+https://www.youtube.com/watch?v=Z-qp3_k02g8&list=PL9PxWMu1s-_xj8Y33GCmSKpRENX7tXcyo&index=6
+https://www.youtube.com/watch?v=_KLVymbBbcE
+https://www.youtube.com/watch?v=r3t3QtYa-NI) para aprender mais. (Não estão em ordem)
+
+
 📅 Período de Execução: Junho/2025  
 👤 Autor: Thiago Almeida dos Santos  
 🔗 LinkedIn: https://www.linkedin.com/in/thiago-almeida-ti  
